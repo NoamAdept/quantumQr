@@ -35,5 +35,5 @@ MIT License
 
 ## Contributing & Contact
 Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.  
-For issues or questions, visit our [GitHub repository](https://github.com/yourusername/quantumqr).
-```
+For issues or questions, visit our [GitHub repository](https://github.com/NoamAdept/quantumqr).
+
