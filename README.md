@@ -12,11 +12,6 @@ QuantumQR is a command-line tool for generating and decoding QR codes. It suppor
 
 ## Installation
 
-### Via PyPI
-```bash
-pip install quantumqr
-```
-
 ### From Source
 ```bash
 git clone https://github.com/yourusername/quantumqr.git
